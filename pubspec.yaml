@@ -1,0 +1,294 @@
+name: VisionGuide
+description: VisionGuide
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+  provider: ^6.0.1
+
+  get_it: ^7.2.0
+
+  camera: ^0.10.5+9
+
+  tflite: ^1.1.2 # Although tflite 1.1.2 embedding v2 gives an error, it works.
+
+  image_picker: ^0.8.4+3
+
+  google_fonts: ^4.0.4
+
+  google_maps_flutter: ^2.5.3
+
+  geolocator: ^10.1.0
+
+  flutter_google_places: ^0.3.0
+
+  awesome_snackbar_content: ^0.1.3
+
+  http: ^0.13.4
+  
+  auto_size_text: ^3.0.0 
+
+  change_app_package_name: ^1.1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^1.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/
+    - assets/page-1/images/b4c4eb-8961-4794-b22d-95ae4986c554-2.png
+    - assets/page-1/images/appicon.png
+    - assets/page-1/images/auto-group-rqu1.png
+    - assets/page-1/images/clarity-notification-solid.png
+    - assets/page-1/images/vector.png
+    - assets/page-1/images/teenyicons-home-solid.png
+    - assets/page-1/images/ankaradaki-aslanhane-camii-de-unesco-dunya-mirasi-listesine-girdi-1.png
+    - assets/page-1/images/vector-GPX.png
+    - assets/page-1/images/lets-icons-back.png
+    - assets/page-1/images/lets-icons-back-18q.png
+    - assets/page-1/images/mdi-email.png
+    - assets/page-1/images/gg-profile.png
+    - assets/page-1/images/material-symbols-forum-outline.png
+    - assets/page-1/images/lets-icons-back-jsK.png
+    - assets/page-1/images/lets-icons-back-piH.png
+    - assets/page-1/images/ankaradaki-aslanhane-camii-de-unesco-dunya-mirasi-listesine-girdi-3.png
+    - assets/page-1/images/vector-p5T.png
+    - assets/page-1/images/lets-icons-back-Gbf.png
+    - assets/page-1/images/auto-group-ppkw.png
+    - assets/page-1/images/lets-icons-back-CQm.png
+    - assets/page-1/images/ri-search-line.png
+    - assets/page-1/images/vector-EuB.png
+    - assets/page-1/images/.png
+    - assets/page-1/images/haziran-agustos-direkkkkkkkkkkkkk-1.png
+    - assets/page-1/images/duatepe-1.png
+    - assets/page-1/images/b4c4eb-8961-4794-b22d-95ae4986c554-2-4Bw.png
+    - assets/page-1/images/-eE1.png
+    - assets/page-1/images/auto-group-3dnd.png
+    - assets/page-1/images/vector-9KB.png
+    - assets/page-1/images/auto-group-hbxk.png
+    - assets/page-1/images/vector-py3.png
+    - assets/page-1/images/lets-icons-back-6sw.png
+    - assets/page-1/images/lets-icons-back-dss.png
+    - assets/page-1/images/mdi-password.png
+    - assets/page-1/images/mingcute-search-line.png
+    - assets/page-1/images/vector-XyF.png
+    - assets/page-1/images/-jgH.png
+    - assets/page-1/images/vector-fpq.png
+    - assets/page-1/images/ekran-resmi-2024-02-13-2149-1.png
+    - assets/page-1/images/basemap-image.png
+    - assets/page-1/images/ekran-resmi-2024-02-09-0131-2.png
+    - assets/page-1/images/antkabir-1.png
+    - assets/page-1/images/antkabir-2.png
+    - assets/page-1/images/vector-vUu.png
+    - assets/page-1/images/ekran-resmi-2024-02-13-2150-1.png
+    - assets/page-1/images/tabler-eye-off.png
+    - assets/page-1/images/ekran-resmi-2024-02-09-0131-2-1WM.png
+    - assets/page-1/images/mingcute-search-line-LCu.png
+    - assets/page-1/images/ion-qr-code.png
+    - assets/page-1/images/mg-2587-mmmer-k-kona-38orig-1.png
+    - assets/page-1/images/gg-profile-G7o.png
+    - assets/page-1/images/mingcute-search-line-E4d.png
+    - assets/page-1/images/auto-group-xtz7.png
+    - assets/page-1/images/vector-yH7.png
+    - assets/page-1/images/mingcute-search-line-k2y.png
+    - assets/page-1/images/ekran-resmi-2024-02-13-2234-1.png
+    - assets/page-1/images/clarity-image-gallery-solid.png
+    - assets/page-1/images/material-symbols-close.png
+    - assets/page-1/images/vector-sAu.png
+    - assets/page-1/images/material-symbols-close-bsb.png
+    - assets/page-1/images/haziran-agustos-direkkkkkkkkkkkkk-2.png
+    - assets/page-1/images/b4c4eb-8961-4794-b22d-95ae4986c554-1.png
+    - assets/page-1/images/iconamoon-email-thin.png
+    - assets/page-1/images/gg-profile-KDF.png
+    - assets/page-1/images/teenyicons-home-outline.png
+    - assets/page-1/images/ri-search-line-G8V.png
+    - assets/page-1/images/material-symbols-mic.png
+    - assets/page-1/images/teenyicons-home-outline-BWM.png
+    - assets/page-1/images/frame.png
+    - assets/page-1/images/mingcute-search-line-wEd.png
+    - assets/page-1/images/ri-search-line-K6m.png
+    - assets/page-1/images/iconamoon-email-thin-HJV.png
+    - assets/page-1/images/ph-camera-fill.png
+    - assets/page-1/images/vector-3Hf.png
+    - assets/page-1/images/vector-oGq.png
+    - assets/page-1/images/lets-icons-back-a2h.png
+    - assets/page-1/images/gg-profile-YVK.png
+    - assets/page-1/images/teenyicons-home-outline-v6Z.png
+    - assets/page-1/images/auto-group-k4bx.png
+    - assets/page-1/images/frame-UNy.png
+    - assets/page-1/images/gg-profile-qzD.png
+    - assets/page-1/images/material-symbols-close-QnR.png
+    - assets/page-1/images/ri-search-line-xow.png
+    - assets/page-1/images/lets-icons-back-LAH.png
+    - assets/page-1/images/mingcute-search-line-txV.png
+    - assets/page-1/images/frame-57s.png
+    - assets/page-1/images/haziran-agustos-direkkkkkkkkkkkkk-2-76m.png
+    - assets/page-1/images/teenyicons-home-outline-zsF.png
+    - assets/page-1/images/ri-search-line-iub.png
+    - assets/page-1/images/lets-icons-back-w7j.png
+    - assets/page-1/images/ankaradaki-aslanhane-camii-de-unesco-dunya-mirasi-listesine-girdi-2.png
+    - assets/page-1/images/mdi-filter.png
+    - assets/page-1/images/ri-search-line-4bF.png
+    - assets/page-1/images/mg-2587-mmmer-k-kona-38orig-2.png
+    - assets/page-1/images/material-symbols-star-outline.png
+    - assets/page-1/images/mdi-sort.png
+    - assets/page-1/images/ankaradaki-aslanhane-camii-de-unesco-dunya-mirasi-listesine-girdi-2-3Rf.png
+    - assets/page-1/images/mg-2587-mmmer-k-kona-38orig-2-8i1.png
+    - assets/page-1/images/duatepe-2.png
+    - assets/page-1/images/duatepe-2-7wT.png
+    - assets/page-1/images/ekran-resmi-2024-02-09-0131-1.png
+    - assets/page-1/images/antkabir-2-22Z.png
+    - assets/page-1/images/frame-vSh.png
+    - assets/page-1/images/frame-525.png
+    - assets/page-1/images/material-symbols-star.png
+    - assets/page-1/images/material-symbols-star-outline-nLD.png
+    - assets/page-1/images/vector-tWH.png
+    - assets/page-1/images/frame-BUh.png
+    - assets/page-1/images/frame-WBX.png
+    - assets/page-1/images/gg-profile-mLy.png
+    - assets/page-1/images/teenyicons-home-solid-mth.png
+    - assets/page-1/images/pexels-berna-tosun-17141923-1.png
+    - assets/page-1/images/pexels-berna-tosun-17141923-2.png
+    - assets/page-1/images/lets-icons-back-P9F.png
+    - assets/page-1/images/material-symbols-star-outline-2ub.png
+    - assets/page-1/images/gg-check-o.png
+    - assets/page-1/images/mdi-email-PeM.png
+    - assets/page-1/images/pexels-berna-tosun-17141923-2-ziH.png
+    - assets/page-1/images/material-symbols-star-outline-PkH.png
+    - assets/page-1/images/mingcute-search-line-y8q.png
+    - assets/page-1/images/lets-icons-back-yJM.png
+    - assets/page-1/images/mdi-heart-QM5.png
+    - assets/page-1/images/mdi-heart-SRM.png
+    - assets/page-1/images/mdi-location.png
+    - assets/page-1/images/material-symbols-more-vert.png
+    - assets/page-1/images/material-symbols-star-91h.png
+    - assets/page-1/images/material-symbols-star-CjH.png
+    - assets/page-1/images/material-symbols-star-Khq.png
+    - assets/page-1/images/material-symbols-star-FUs.png
+    - assets/page-1/images/material-symbols-star-uQ3.png
+    - assets/page-1/images/frame-Bou.png
+    - assets/page-1/images/mdi-heart-SRM.png
+    - assets/page-1/images/vector-6Bq.png
+    - assets/page-1/images/mdi-location.png
+    - assets/page-1/images/mdi-filter.png
+    - assets/page-1/images/mdi-sort.png
+    - assets/page-1/images/mdi-heart.png
+    - assets/page-1/images/material-symbols-add.png
+    - assets/page-1/images/frame-KU3.png
+    - assets/page-1/images/material-symbols-star-tKH.png
+    - assets/page-1/images/material-symbols-star.png
+    - assets/page-1/images/material-symbols-star-Sk7.png
+    - assets/page-1/images/material-symbols-star-qWF.png
+    - assets/page-1/images/material-symbols-star-MSX.png
+    - assets/page-1/images/vector-ceK.png
+    - assets/page-1/images/material-symbols-more-vert-bhy.png
+    - assets/page-1/images/mdi-heart-FEf.png
+    - assets/page-1/images/frame-Jxo.png
+    - assets/page-1/images/material-symbols-star-ZqR.png
+    - assets/page-1/images/material-symbols-star-e7Z.png
+    - assets/page-1/images/material-symbols-star-wYT.png
+    - assets/page-1/images/material-symbols-star-AF1.png
+    - assets/page-1/images/material-symbols-star-x8o.png
+    - assets/page-1/images/vector-cfq.png
+    - assets/page-1/images/material-symbols-more-vert-XfD.png
+    - assets/page-1/images/mdi-heart-QM5.png
+    - assets/page-1/images/material-symbols-star-uFm.png
+    - assets/page-1/images/material-symbols-star-P3V.png
+    - assets/page-1/images/material-symbols-star-pSb.png
+    - assets/page-1/images/material-symbols-star-jcb.png
+    - assets/page-1/images/material-symbols-star-8Vm.png
+    - assets/page-1/images/frame-Kks.png
+    - assets/page-1/images/mdi-heart-mps.png
+    - assets/page-1/images/material-symbols-more-vert-5ef.png
+    - assets/page-1/images/vector-BpB.png
+    - assets/page-1/images/lets-icons-back-uAo.png
+    - assets/page-1/images/teenyicons-home-solid-ENT.png
+    - assets/page-1/images/ri-search-line-dv7.png
+    - assets/page-1/images/vector-bZ9.png
+    - assets/page-1/images/gg-profile-iTy.png
+    - assets/page-1/images/-jJF.png
+    - assets/page-1/images/-nzb.png
+
+
+    
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

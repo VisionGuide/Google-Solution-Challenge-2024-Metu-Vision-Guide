@@ -1,0 +1,1 @@
+enum ImagePredictLabelEnum { anitkabir , atakule }
