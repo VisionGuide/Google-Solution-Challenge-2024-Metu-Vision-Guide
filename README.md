@@ -95,7 +95,7 @@ We have made the search experience as accessible as possible by utilizing voice 
 
 
 # **Features**
-When we click on any historical structure on the home screen, it provides us with essential information we need to know about that structure.
+When we click on any historical structure on the home screen, it provides us with essential information we need to know about that structure. In addition, you can see and get information about the most popular historical monuments and historical monuments near you on the same page.
 
 ![WhatsApp Video 2024-02-21 at 19 46 04](https://github.com/sefabltt/currentlocation/assets/123082677/887d838a-0a50-400a-a4fe-0e487f01f95e)
 
