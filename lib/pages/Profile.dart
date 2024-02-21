@@ -5,6 +5,7 @@ import 'package:VisionGuide/screens/current_location_screen.dart';
 import 'dart:ui';
 import 'package:VisionGuide/scrolls.dart';
 
+// Profile Page
 class profile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
