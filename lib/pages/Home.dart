@@ -228,7 +228,7 @@ class home extends StatelessWidget {
               top: 619 * fem,
               child: Align(
                 child: SizedBox(
-                  width: 80 * fem,
+                  width: 110 * fem,
                   height: 27 * fem,
                   child: Text(
                     'Around You',
