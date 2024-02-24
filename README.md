@@ -16,7 +16,7 @@ The app features 3 main components:
 
 The Sustainable Development Goals (SDGs), were established by the United Nations in 2015, comprising 17 objectives aimed at fostering worldwide sustainable development. These goals span diverse areas such as poverty, hunger, health, education, gender equality, clean water, sanitation, renewable energy, economic growth, infrastructure, and climate action. Google is committed to supporting the SDGs by applying its technology, expertise, and resources to generate positive impacts globally. Through collaboration with partners across sectors, Google strives to address these challenges and implement scalable solutions to contribute to the attainment of the Sustainable Development Goals.
 
-![17goals](https://github.com/sefabltt/currentlocation/assets/123082677/582edeb7-95be-433a-855d-dd644081b756)
+![17goals](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/2c69989a-443e-40db-8a57-8aeab5ae58e4)
 
 
 # **Our Goals**
@@ -26,11 +26,11 @@ Goal 8 of the Sustainable Development Goals is to promote sustained, inclusive, 
 
 **Decent Work and Economic Growth**
 
-![Aspose Words 790e2e38-c7a0-4922-b30e-196b37506e96 001](https://github.com/sefabltt/currentlocation/assets/123082677/4eee8959-beac-4fda-a816-e4d315ea1e5b)
+![goal8](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/2d7b6c52-6b11-483f-9539-068bb66ca222)
 
 **Sustainable Cities and Communities**
 
-![Aspose Words 790e2e38-c7a0-4922-b30e-196b37506e96 002](https://github.com/sefabltt/currentlocation/assets/123082677/c1bfd0c0-5497-48d9-9db0-de536eafac96)
+![goal11](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/0508b5f4-0d39-4217-a530-dbb37c20afdc)
 
 In this demo, the VisionGuide application was designed locally, based in Ankara, the capital of Turkey. Our primary goals are to optimize and improve routing and route creation to the nearest historical monuments based on the current location. Then, we will firstly cover all the historical monuments of Turkey and then all the historical monuments of the world. We will continue to develop the application with determination by optimizing the artificial intelligence by entering the data and information of all these monuments.
 
@@ -38,7 +38,7 @@ In this demo, the VisionGuide application was designed locally, based in Ankara,
 
 # **The Meaning Of Our Logo**
 
-![WhatsApp Image 2024-02-20 at 18 07 32](https://github.com/sefabltt/currentlocation/assets/123082677/5f966276-58da-43dd-8c21-f42278c0ac62)
+![logomeanvisionguide](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/9ba2ef04-a7ed-473a-a268-bad4cb6ed006)
 
 
 
@@ -49,11 +49,11 @@ Our logo combines a medieval castle with intertwined "V" and "G" letters which s
 
 # **Technologies Used**
 
-![Aspose Words 790e2e38-c7a0-4922-b30e-196b37506e96 004](https://github.com/sefabltt/currentlocation/assets/123082677/354f84a1-2de0-43bf-b1da-cce068d30fec)
-![Aspose Words 790e2e38-c7a0-4922-b30e-196b37506e96 005](https://github.com/sefabltt/currentlocation/assets/123082677/31260b73-8c30-49a2-8045-f2074bcd23f8)
-![Aspose Words 790e2e38-c7a0-4922-b30e-196b37506e96 006](https://github.com/sefabltt/currentlocation/assets/123082677/41a7ecaf-0ff3-41d1-85b7-ec204b96d47f)
-![androd](https://github.com/sefabltt/currentlocation/assets/123082677/ea5aa026-7519-43f8-8a51-c064406a159b)
-![Aspose Words 790e2e38-c7a0-4922-b30e-196b37506e96 007](https://github.com/sefabltt/currentlocation/assets/123082677/2524b94e-593a-40a8-8b6b-b131360df18d)
+![flutter](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/7aadea99-fcb7-4b14-ac6c-e8b802c893b2)
+![tflite](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/01cb6b95-e292-426f-9916-7d8b6d7794a8)
+![google maps](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/e0ddcdc6-4b05-4cf4-aeb8-1a8ad6c2ed62)
+![figma](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/91c25036-a676-4788-8e4e-213d4720d443)
+![androd](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/f7faf5a3-6bd2-4250-85dd-7a3f8348a692)
 
 
 
@@ -67,7 +67,7 @@ Our logo combines a medieval castle with intertwined "V" and "G" letters which s
 
 On the sign-in page, users can log in with their own e-mails. We provide users with the ease of effortlessly logging into their Google accounts.
 
-![Aspose Words 790e2e38-c7a0-4922-b30e-196b37506e96 008](https://github.com/sefabltt/currentlocation/assets/123082677/87c62995-6f24-4d29-b4b2-8a7448053b8c)
+![signin](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/557e4381-a4bc-40a5-9faa-e1efecc06114)
 
 # **Main Page & Dynamic UI Structure**
 
@@ -75,7 +75,7 @@ Our app has a friendly interface. Once you log in, a simple and easy-to-use home
 
 On the main page, there are options related to popular, worth exploring, and nearby places to visit. In this way, we aim to encourage gaining more information about cultural structures, promoting sustainable tourism.
 
-![11](https://github.com/sefabltt/currentlocation/assets/123082677/3467f1c5-c1ed-4842-a2a9-f336cd52845d)
+![11](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/e2ebbfce-fc61-437b-9d0f-15b84b553d97)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -84,20 +84,21 @@ As the page changes, the colors in the navigation bar also change. This provides
 At the top, there's an icon leading you to a forum where users can interact and share comments about local culture and products. Furthermore, there's a notification icon with a badge for checking incoming notifications. Upon entering the forum page, you'll find options such as location, filtering, sorting, adding new comments, and viewing liked comments. Additionally, you can engage with other users by checking out the comments and ratings they've provided for cultural places, liking their comments, and interacting with them.
 
 
-![12](https://github.com/sefabltt/currentlocation/assets/123082677/e3d3bd15-6f1b-493a-a130-3aec9bd98186)
+![12](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/9fb0c3e0-aaae-42ea-84f7-c24102b3ba93)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 We have made the search experience as accessible as possible by utilizing voice commands, text input, screen reader support, and artificial intelligence to interpret cultural data through visual and QR code identification. If you want to get information about that monument when you take a photo from inside the historical monument, the QR code has been placed for this purpose. Artificial intelligence system helps to recognize and analyze cultural structure with image processing.
 
-![13](https://github.com/sefabltt/currentlocation/assets/123082677/8d699f58-10d2-4b9b-b3ee-d98deeda240a)
+![13](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/20fcd21a-b4a3-45de-bfad-6e5a66169234)
 
 
 
 # **Features**
 When we click on any historical structure on the home screen, it provides us with essential information we need to know about that structure. In addition, you can see and get information about the most popular historical monuments and historical monuments near you on the same page.
 
-![WhatsApp Video 2024-02-21 at 19 46 04](https://github.com/sefabltt/currentlocation/assets/123082677/887d838a-0a50-400a-a4fe-0e487f01f95e)
+![ankarakalesigif](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/82551531-3fe3-4cbc-8f08-48dc67bd9a72)
+
 
 
 
@@ -106,12 +107,14 @@ When we click on any historical structure on the home screen, it provides us wit
 
 Functions that include the main purposes of our application are located on the search screen. After clicking the camera icon on this page, you will be directed to the phone camera when you click "Take Photos", and when you take a photo of any historical building and click "Run AI", you will activate the artificial intelligence and be directed to the information page.
 
-![WhatsApp Video 2024-02-21 at 14 20 44 (1)](https://github.com/sefabltt/currentlocation/assets/123082677/c58390a5-afdb-4d0a-ab90-1af372e5df41)
+![AICAMERA](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/805b2029-ca8f-4fc3-9a6d-d356ea9c0e82)
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 If you click on "Select images" after clicking on the gallery icon on the search screen, you will be directed to the phone gallery. If you click on "Run AI" after selecting the image of any historical monument, you will activate the artificial intelligence and be directed to the information page.
 
-![WhatsApp Video 2024-02-21 at 14 10 57 (1) (1)](https://github.com/sefabltt/currentlocation/assets/123082677/6b1e410b-92f2-4fe2-b549-1fdb387f3491)
+![galery](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/438c9c98-c712-44c5-9b96-3f9b58c587c3)
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -119,7 +122,7 @@ If you click on "Select images" after clicking on the gallery icon on the search
 On maps screen, with the help of Google Maps API , First, the city you are in opens, then your current location appears on the screen. The kilometer and time scale at the top of the screen is intended to show the nearest historical monuments and create a route (It's a demo). This is the 3rd main feature of our application. If you navigate within the map, simply click "My location" at the bottom right of the screen to access your current location.
 
 
-![WhatsApp Video 2024-02-21 at 14 17 57 (2) (4)](https://github.com/sefabltt/currentlocation/assets/123082677/73677fdd-17fd-4653-ac03-561ffe02fcbc)
+![googlemaps](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/9498df0d-053d-409c-8977-662daaf8730f)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
