@@ -51,9 +51,10 @@ Our logo combines a medieval castle with intertwined "V" and "G" letters which s
 
 ![flutter](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/7aadea99-fcb7-4b14-ac6c-e8b802c893b2)
 ![tflite](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/01cb6b95-e292-426f-9916-7d8b6d7794a8)
-![google maps](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/e0ddcdc6-4b05-4cf4-aeb8-1a8ad6c2ed62)
-![figma](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/91c25036-a676-4788-8e4e-213d4720d443)
-![androd](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/f7faf5a3-6bd2-4250-85dd-7a3f8348a692)
+![googlemaps](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/8d68fa1c-ab2d-432c-aa1a-52a7d88210c6)
+![figma](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/d2ebb4ea-953a-45e0-b6ff-dac354149e85)
+![androd](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/6ee3375b-8a83-47e6-98d3-5f631a005683)
+
 
 
 
