@@ -135,7 +135,7 @@ Account Creation and Information Sharing: Users can create an account for themse
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-There is a reporting option available on forum page to prevent potential fake posts related to the priority topic (accessing the accurate information).
+There is a reporting option available on forum page to prevent potential fake posts related to the priority topic (accessing the accurate information)(It's a demo).
 
 
 
