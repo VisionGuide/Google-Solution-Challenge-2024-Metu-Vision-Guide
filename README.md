@@ -127,7 +127,7 @@ On maps screen, with the help of Google Maps API , First, the city you are in op
 Account Creation and Information Sharing: Users can create an account for themselves and customize it with their profile photo. They can easily interact with other users using the account they have created. Language options will be added to the application. Thus, users will be able to use the application more comfortably and interact with it each other.
 
 
-![14](https://github.com/sefabltt/currentlocation/assets/123082677/acd059e6-5137-4a56-ba1d-3ee51008b349)
+![14](https://github.com/VisionGuide/Google-Solution-Challenge-2024-Metu-Vision-Guide/assets/123082677/aadd7826-fd6f-404b-ad98-1e1cfbd6a206)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
